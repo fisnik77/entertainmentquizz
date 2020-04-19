@@ -1,0 +1,2 @@
+# entertainmentquizz
+Some entertainment questions
