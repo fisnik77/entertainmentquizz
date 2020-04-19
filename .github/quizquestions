@@ -1,0 +1,95 @@
+[
+        {
+            
+            "pyetja": "Who wrote the quote 'Harry Potter ' ?",
+	    "opsionet" : [
+                "J.R.R. Tolkien",
+                "Terry Pratchett",
+                "Daniel Radcliffe"
+			],	
+		"esakte" : "J.K.Rowling"
+	
+             },  
+
+	{
+	"pyetja": "What was the name of Captain Nemo's submarine in ;20,000 Leagues Under the Sea novel?",
+            "opsionet" : [
+                "The Neptune",
+                "The Poseidon  ",
+                "The Atlantis"
+	          ],
+	"esakte":"The Nautilus"
+        },
+	
+	{ "pyetja" : "Which famous spy novelist wrote the children's story ;Chitty-Chitty-Bang-Bang ?",
+            "esakte" : "Ian Fleming",
+            "opsioinet" : [
+                "Joseph Conrad",
+                "John Buchan",
+                "Graham Greene"
+            ]
+        },
+
+	{ "pyetja" : "How many Harry Potter books are there?",
+            "esakte": "7",
+            "opsionet" : [
+                "8",
+                "5",
+                "6"
+            ]
+        },
+
+	{ "pyetja": "What's Harry Potter's dad name?",
+            "esakte" : "James Potter",
+            "opsionet": [
+                "Joey Potter",
+                "Frank Potter",
+                "Hairy Potter Sr."
+            ]
+        },
+		
+	{"pyetja" : "What is the name of the three headed dog in Harry Potter and the Sorcerer's Stone?",
+            "esakte" : "Fluffy",
+            "opsionet" : [
+                "Spike",
+                "Poofy",
+                "Spot"
+            ]
+        },
+	{ "pyetja" : "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+            "esakte" : "A Study in Scarlet",
+            "opsionet" : [
+                "The Sign of the Four",
+                "A Case of Identity",
+                "The Doings of Raffles Haw"
+            ]
+        },
+
+	{ "pyetja" : "What is the name of Sherlock Holmes's brother?",
+            "esakte" : "Mycroft Holmes",
+            "opsionet" : [
+                "Mederi Holmes",
+                "Martin Holmes",
+                "Herbie Hancock Holmes"
+            ]
+        },
+
+	{ "pyetja" : "What's the second book in George R. R. Martin's 'A Song of Ice and Fire' series?",
+           "esakte" : "A Clash of Kings",
+            "opsionet" : [
+                "A Dance with Dragons",
+                "A Storm of Swords",
+                "A Feast for Crows"
+            ]
+        },
+	
+	{ "pyetja" : "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+            "esakte" : "SCP-173",
+            "opsionet" : [
+                "SCP-001",
+                "SCP-999",
+                "SCP-1459"
+            ]
+        }
+]
+
